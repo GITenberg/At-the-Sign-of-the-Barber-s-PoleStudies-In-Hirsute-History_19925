@@ -1,0 +1,27 @@
+_repo: At-the-Sign-of-the-Barber-s-PoleStudies-In-Hirsute-History_19925
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, William
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '8969'
+    url: http://www.gutenberg.org/2009/agents/8969
+description: ''
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Hairdressing -- History'
+- !lcsh 'Barbers'
+title: 'At the Sign of the Barber''s Pole: Studies In Hirsute History'
+url: http://www.gutenberg.org/ebooks/19925
